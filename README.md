@@ -1,11 +1,19 @@
 ## 💸 PIGGY BOOK
 <img src="https://user-images.githubusercontent.com/38288479/99702565-493df880-2ad9-11eb-841d-6f9d56b40be4.png" width="300" height="200" />
 
+![react](https://img.shields.io/badge/react-^17.0.1-blue?logo=react)
+![styled-components](https://img.shields.io/badge/styledComponents-^5.2.0-blue?logo=styled-components)
+![prettier](https://img.shields.io/badge/prettier-^2.1.1-yellow?logo=prettier)
+![eslint](https://img.shields.io/badge/eslint-^7.13.0-yellow?logo=eslint)
+![koa](https://img.shields.io/badge/koa-^2.13.0-green)
+![node.js](https://img.shields.io/badge/node.js-^12.10.0-green?logo=node.js)
+
+
 ## 👨‍💻 프로젝트 소개
 
 > 웹 기반으로 동작하는 개인의 입출금 및 가계 재정을 시각화 및 분석할 수 있는 가계부 서비스 입니다. <br />
 
-> 가계부를 개인 또는 공용으로 이용할 수 있는 서비스 입니다.
+> 가계부는 개인으로, 또는 공용으로 이용하실 수 있습니다.
 
 <br />
 
