@@ -9,10 +9,10 @@
 ![eslint](https://img.shields.io/badge/eslint-^7.13.0-orange?logo=eslint)
 ![webpack](https://img.shields.io/badge/webpack-^4.35.0-red?logo=webpack)
 ![koa](https://img.shields.io/badge/koa-^2.13.0-blue?logo=koa)
-![node.js](https://img.shields.io/badge/node.js-^12.10.0-success?logo=node.js)
-![mongoose](https://img.shields.io/badge/mongoose-^5.10.15-important?logo=mongoose)
-![jest](https://img.shields.io/badge/jest-^26.6.3-9cf?logo=jest)
-![supertest](https://img.shields.io/badge/supertest-^6.0.1-9cf?logo=supertest)  <br />
+![node.js](https://img.shields.io/badge/node.js-^12.10.0-lightgrey?logo=node.js)
+![mongoose](https://img.shields.io/badge/mongoose-^5.10.15-success?logo=mongoose)
+![jest](https://img.shields.io/badge/jest-^26.6.3-important?logo=jest)
+![supertest](https://img.shields.io/badge/supertest-^6.0.1-critical?logo=supertest)  <br />
 
 ## 👨‍💻 프로젝트 소개
 
