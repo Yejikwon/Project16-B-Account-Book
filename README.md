@@ -1,6 +1,6 @@
 ## 🎈 PIGGY BOOK
 
-<img src="https://user-images.githubusercontent.com/38288479/99702565-493df880-2ad9-11eb-841d-6f9d56b40be4.png" width="500" height="400" />
+<img src="https://user-images.githubusercontent.com/38288479/99702565-493df880-2ad9-11eb-841d-6f9d56b40be4.png" width="500" height="350" />
 
 ![react](https://img.shields.io/badge/react-^17.0.1-brightgreen?logo=react)
 ![redux](https://img.shields.io/badge/redux-^4.0.5-green?logo=redux)
@@ -13,6 +13,8 @@
 ![mongoose](https://img.shields.io/badge/mongoose-^5.10.15-success?logo=mongoose) 
 ![jest](https://img.shields.io/badge/jest-^26.6.3-important?logo=jest)
 ![supertest](https://img.shields.io/badge/supertest-^6.0.1-critical?logo=supertest)  <br />
+
+<br />
 
 ## 🚀 프로젝트 소개
 
