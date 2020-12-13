@@ -16,6 +16,15 @@
 
 <br />
 
+## 😊 팀원 소개
+
+| J018 권예지 | J169 임기봉  | J188 정지찬  |
+| :--------: | :--------: | :---------: |
+|   <img src="https://ca.slack-edge.com/T019JFET9H7-U019PBWRG03-8b6c9029f984-512" alt="img" height="150px" width="150px" /> |   <img src="https://avatars2.githubusercontent.com/u/57941049?s=460&u=b20800e6bc681bf4c683143cbcf11b9aa7dcf50c&v=4 =150x150" alt="img" height="150px" width="150px" />     | <img src="https://user-images.githubusercontent.com/38288479/99750943-9e532c00-2b24-11eb-82de-933279ed77dc.png" alt="img" height="150px" width="150px" />
+| *Yejikwon*| *gyim1345* |*jch422* |
+
+<br />
+
 ## 🚀 프로젝트 소개
 
 ### “PIGGY BOOK은 더 잘 읽히는 입출금 및 가계 재정을 만들기 위해 노력하고 있습니다”
@@ -59,12 +68,9 @@ npm start
 
 <br />
 
-## 😊 팀원 소개
 
-| J018 권예지 | J169 임기봉  | J188 정지찬  |
-| :--------: | :--------: | :---------: |
-|   <img src="https://ca.slack-edge.com/T019JFET9H7-U019PBWRG03-8b6c9029f984-512" alt="img" height="150px" width="150px" /> |   <img src="https://avatars2.githubusercontent.com/u/57941049?s=460&u=b20800e6bc681bf4c683143cbcf11b9aa7dcf50c&v=4 =150x150" alt="img" height="150px" width="150px" />     | <img src="https://user-images.githubusercontent.com/38288479/99750943-9e532c00-2b24-11eb-82de-933279ed77dc.png" alt="img" height="150px" width="150px" />
-| *Yejikwon*| *gyim1345* |*jch422* |
+## 📢 기술 특장점
+![image](https://user-images.githubusercontent.com/13073517/102005390-c9175580-3d5b-11eb-96ff-813a1da871d0.png)
 
 <br />
 
