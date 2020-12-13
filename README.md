@@ -1,4 +1,4 @@
-# 🚀 PIGGY BOOK
+## 🎈 PIGGY BOOK
 
 <img src="https://user-images.githubusercontent.com/38288479/99702565-493df880-2ad9-11eb-841d-6f9d56b40be4.png" width="500" height="400" />
 
@@ -14,11 +14,16 @@
 ![jest](https://img.shields.io/badge/jest-^26.6.3-important?logo=jest)
 ![supertest](https://img.shields.io/badge/supertest-^6.0.1-critical?logo=supertest)  <br />
 
-## 👨‍💻 프로젝트 소개
+## 🚀 프로젝트 소개
 
-웹 기반으로 동작하는 개인의 입출금 및 가계 재정을 시각화 및 분석할 수 있는 가계부 서비스 입니다. <br />
-가계부는 `개인`으로, 또는 `공용`으로 이용하실 수 있습니다. 😊
- 
+### “PIGGY BOOK은 더 잘 읽히는 입출금 및 가계 재정을 만들기 위해 노력하고 있습니다”
+
+`PIGGY BOOK` 은 웹 기반으로 동작하는 서비스입니다. <br />
+개인의 입출금 및 가계 재정을 `시각화 및 분석`할 수 있으며,  <br />
+가계부는 `개인` 또는 `공용`으로 이용하실 수 있습니다. 😊
+
+![image](https://user-images.githubusercontent.com/13073517/102005313-455d6900-3d5b-11eb-85f1-218758f4abb5.png)
+
 
 <br />
 
