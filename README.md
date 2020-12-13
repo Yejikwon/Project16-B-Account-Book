@@ -22,8 +22,7 @@
 개인의 입출금 및 가계 재정을 `시각화 및 분석`할 수 있으며,  <br />
 가계부는 `개인` 또는 `공용`으로 이용하실 수 있습니다. 😊
 
-![image](https://user-images.githubusercontent.com/13073517/102005313-455d6900-3d5b-11eb-85f1-218758f4abb5.png)
-
+![image](https://user-images.githubusercontent.com/13073517/102005330-63c36480-3d5b-11eb-9bd7-5e9d31c4464b.png)
 
 <br />
 
@@ -38,19 +37,19 @@
 ### 💕 Clone
  - `master` branch clone 부탁드립니다 :)
  
-```js
+```javascript
 git clone https://github.com/boostcamp-2020/Project16-B-Account-Book.git
 ```
 
 ### 💕 PIGGY BOOK server (API Server)
-~~~js
+~~~javascript
 cd server
 npm install
 npm run dev
 ~~~
 
 ### 💕 PIGGY BOOK client
-~~~js
+~~~javascript
 cd client
 npm install
 npm start
