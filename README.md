@@ -1,16 +1,16 @@
-## 💸 PIGGY BOOK
+# 💸 PIGGY BOOK
 
-<img src="https://user-images.githubusercontent.com/38288479/99702565-493df880-2ad9-11eb-841d-6f9d56b40be4.png" width="300" height="200" />
+<img src="https://user-images.githubusercontent.com/38288479/99702565-493df880-2ad9-11eb-841d-6f9d56b40be4.png" width="500" height="400" />
 
 ![react](https://img.shields.io/badge/react-^17.0.1-brightgreen?logo=react)
 ![redux](https://img.shields.io/badge/redux-^4.0.5-green?logo=redux)
 ![styled-components](https://img.shields.io/badge/styledComponents-^5.2.0-yellowgreen?logo=styled-components) 
-![prettier](https://img.shields.io/badge/prettier-^2.1.1-yellow?logo=prettier)
+![prettier](https://img.shields.io/badge/prettier-^2.1.1-yellow?logo=prettier) <br />
 ![eslint](https://img.shields.io/badge/eslint-^7.13.0-orange?logo=eslint)
-![webpack](https://img.shields.io/badge/webpack-^4.35.0-red?logo=webpack)
+![webpack](https://img.shields.io/badge/webpack-^4.35.0-red?logo=webpack) <br />
 ![koa](https://img.shields.io/badge/koa-^2.13.0-blue?logo=koa)
-![node.js](https://img.shields.io/badge/node.js-^12.10.0-lightgrey?logo=node.js)
-![mongoose](https://img.shields.io/badge/mongoose-^5.10.15-success?logo=mongoose)
+![node.js](https://img.shields.io/badge/node.js-^12.10.0-lightgrey?logo=node.js) 
+![mongoose](https://img.shields.io/badge/mongoose-^5.10.15-success?logo=mongoose) <br />
 ![jest](https://img.shields.io/badge/jest-^26.6.3-important?logo=jest)
 ![supertest](https://img.shields.io/badge/supertest-^6.0.1-critical?logo=supertest)  <br />
 
